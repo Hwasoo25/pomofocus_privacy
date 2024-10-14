@@ -1,9 +1,9 @@
-Privacy Policy for [PomoFocus]
+Privacy Policy for PomoFocus
 
-Effective Date: [14th October, 2024]
+Effective Date: 14th October, 2024
 
 1. Introduction
-[PomoFocus] (“we,” “us,” or “our”) operates the PomoFocus app (the “Service”). This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our Service.
+PomoFocus (“we,” “us,” or “our”) operates the PomoFocus app (the “Service”). This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our Service.
 
 We are committed to protecting your privacy and complying with applicable data protection laws, including the GDPR, CCPA, CPRA, CalOPPA, and other relevant privacy regulations.
 
